@@ -1,5 +1,11 @@
 # rusty_audio
 
+> **This repository has moved.** `rusty_audio` now lives at
+> [`crates/rusty_audio`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_audio)
+> in the [`rusty_mill`](https://github.com/Rusty-Mill/rusty_mill) monorepo, with full commit
+> history preserved. This repository is kept for historical reference and is no longer
+> developed; please open issues and pull requests against `rusty_mill` instead.
+
 A sovereign PCM audio capture device driver for the **Rusty Mill**
 ecosystem.
 
